@@ -6,7 +6,7 @@
 
   <a href="https://juliadooby.github.io/Hotel-Miranda/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="hhttps://github.com/juliaDooby/Hotel-Miranda/blob/main/Hotel_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Hotel-Miranda/blob/main/Hotel_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Hotel-Miranda/blob/main/Hotel_2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Hotel-Miranda/blob/main/Hotel_3.JPG" width="100%" height="20%"></img></div>
 
